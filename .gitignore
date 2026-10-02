@@ -40,4 +40,4 @@ dist-ssr/
 *.sln
 *.sw?
 
-SUPABASE.env.tx
+SUPABASE.env.txt
